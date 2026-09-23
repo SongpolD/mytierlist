@@ -1,6 +1,5 @@
-// Paste the Supabase publishable key from Project Settings → API Keys.
-// This is a public browser key; do not put a secret/service-role key here.
+// Public Supabase browser key. Database access is restricted by Row Level Security.
 window.MYTOP10_CONFIG = {
   supabaseUrl: 'https://sfivsgpfekotvqlpclil.supabase.co',
-  supabasePublishableKey: 'PASTE_SUPABASE_PUBLISHABLE_KEY_HERE'
+  supabasePublishableKey: 'sb_publishable_0rJC5dW0ZcokU7FzFoy6mQ_gur0qZos'
 };
